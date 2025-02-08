@@ -1,1 +1,0 @@
- return self.__population
